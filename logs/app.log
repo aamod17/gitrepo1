@@ -1,0 +1,62 @@
+2025-03-22T18:35:56,596 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - application starts
+2025-03-22T18:35:56,622 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - passing the value i : 
+2025-03-22T18:35:56,623 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - exit from the switch case with value i : 
+2025-03-22T18:35:56,623 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - passing the value i : 
+2025-03-22T18:35:56,624 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - exit from the switch case with value i : 
+2025-03-22T18:35:56,624 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - passing the value i : 
+2025-03-22T18:35:56,624 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - exit from the switch case with value i : 
+2025-03-22T18:35:56,625 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - passing the value i : 
+2025-03-22T18:35:56,625 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - exit from the switch case with value i : 
+2025-03-22T18:35:56,625 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - passing the value i : 
+2025-03-22T18:35:56,626 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - exit from the switch case with value i : 
+2025-03-22T18:35:56,626 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - exit from the for-loop
+2025-03-23T14:00:03,674 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - application starts
+2025-03-23T14:00:03,746 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - passing the value i : 
+2025-03-23T14:00:03,747 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - exit from the switch case with value i : 
+2025-03-23T14:00:03,747 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - passing the value i : 
+2025-03-23T14:00:03,747 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - exit from the switch case with value i : 
+2025-03-23T14:00:03,747 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - passing the value i : 
+2025-03-23T14:00:03,748 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - exit from the switch case with value i : 
+2025-03-23T14:00:03,748 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - passing the value i : 
+2025-03-23T14:00:03,748 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - exit from the switch case with value i : 
+2025-03-23T14:00:03,748 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - passing the value i : 
+2025-03-23T14:00:03,749 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - exit from the switch case with value i : 
+2025-03-23T14:00:03,749 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - exit from the for-loop
+2025-03-23T14:02:15,306 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - application starts
+2025-03-23T14:02:15,312 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - passing the value
+2025-03-23T14:02:15,312 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - exit from the switch case
+2025-03-23T14:02:15,313 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - passing the value
+2025-03-23T14:02:15,313 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - exit from the switch case
+2025-03-23T14:02:15,313 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - passing the value
+2025-03-23T14:02:15,313 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - exit from the switch case
+2025-03-23T14:02:15,313 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - passing the value
+2025-03-23T14:02:15,314 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - exit from the switch case
+2025-03-23T14:02:15,314 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - passing the value
+2025-03-23T14:02:15,314 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - exit from the switch case
+2025-03-23T14:02:15,314 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - exit from the for-loop
+2025-03-23T14:12:05,354 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - application starts
+2025-03-23T14:12:05,359 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - passing the value
+2025-03-23T14:12:05,360 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - exit from the switch case
+2025-03-23T14:12:05,360 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - passing the value
+2025-03-23T14:12:05,361 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - exit from the switch case
+2025-03-23T14:12:05,361 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - passing the value
+2025-03-23T14:12:05,361 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - exit from the switch case
+2025-03-23T14:12:05,361 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - passing the value
+2025-03-23T14:12:05,362 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - exit from the switch case
+2025-03-23T14:12:05,362 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - passing the value
+2025-03-23T14:12:05,362 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - exit from the switch case
+2025-03-23T14:12:05,363 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - exit from the for-loop
+2025-03-23T14:13:44,715 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - application starts
+2025-03-23T14:13:44,720 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - passing the value
+2025-03-23T14:13:44,721 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - exit from the switch case
+2025-03-23T14:13:44,722 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - passing the value
+2025-03-23T14:13:44,722 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - exit from the switch case
+2025-03-23T14:13:44,722 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - passing the value
+2025-03-23T14:13:44,722 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - exit from the switch case
+2025-03-23T14:13:44,723 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - passing the value
+2025-03-23T14:13:44,723 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - exit from the switch case
+2025-03-23T14:13:44,723 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - passing the value
+2025-03-23T14:13:44,723 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - exit from the switch case
+2025-03-23T14:13:44,724 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - passing the value
+2025-03-23T14:13:44,724 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - exit from the switch case
+2025-03-23T14:13:44,724 [main] INFO  com.amodit.control_flow.SwitchCaseDemo2 - exit from the for-loop
